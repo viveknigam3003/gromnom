@@ -1,0 +1,562 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\a7280436cfe1e53b7ac283df4fe4d35a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\2992711f5be1b1a790ad25339f967c76\AndroidManifest.xml:17:1-22:12
+MERGED from [:firebase_analytics] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_analytics\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\ec4048e8801b422994d4d1d02441d197\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.0.aar\a7aff5711a94d9706e676a3c8e66e3cd\AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:17:1-42:12
+MERGED from [:location] D:\Hackabit2.0\Gromnom\gromnombeta\build\location\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-10:12
+MERGED from [:google_sign_in] D:\Hackabit2.0\Gromnom\gromnombeta\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-9:12
+MERGED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [:geocoder] D:\Hackabit2.0\Gromnom\gromnombeta\build\geocoder\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\75b3ebf03ef8aa749764dc31326ce3e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.0.aar\4fd876211977d46ce9e6565ddd017cb0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\3569e8d838fbd58cde5eab1fdf5a12ca\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\cd858cdf95516e77e4fe06454c3bc317\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\903a93a01ddacc6a98f84ce11ea1a0d5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\f298fa0ccbb59149469b5a17b1c0db59\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\c240fc530fe7a78eb1877e544a9803c6\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-16.0.0.aar\edc6002751d4405a21209899c799af17\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-16.0.0.aar\3667058179b81861730eed2be463d807\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\da17bef7b5f0114b8cda18ebcc53cf84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\0cd428fd991be79b93fb30df63c253e8\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\8a6fe92d472bfb57666bb64d8c002e26\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\180a030e72c5b0297def192e166bb00c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\795175e890219bcd4864d284863ff428\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\62fc9531a25cee7ff06508882bbbe3f7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\97feefa99cc8eccec8105f2ab6cace72\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\8c54d20f4291135316e9ba4a1a6b128e\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\aa130c35439725330a4b687125b34913\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\499d2df2f7be456f01da689621862fdb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f665a717fbcb2f85b1d4a49f13bb590a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\dfaef2eee69d9427405867fd89b9a712\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1e52cfaed379e68626fd35094e7efd78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\574a2eef9c71d25fde7cbabb32c828ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\689227ca6ea2f07cace81cb91e96d349\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\cfca11c22c88024b51f19a310abf0558\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\d1cfb9907e7d099268157c96c19954da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\d42bb8b7d7692a8a3cbdd461b26e6703\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\4452d822e4db5c782af0a952ba170e59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a3d47f907ee27ed34df2747f90ff5e0b\AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\grpc-android-1.16.1.aar\9f67c3df3cdc0fc5a1249bca8bdf641a\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7e8fcb7b2e5754e7776b71f86c36d31c\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\475a0fd6570953ed39568c4852301a67\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\599775808e536362f97a1f09368a3718\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\4e0d4468e613eb261e417c6a96e13068\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9b4ee01b5a24428f04150b94260459ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\1a740c0dde9ef72b27988d0d089c38cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\6a98eb5a08d2103358d1c8be49b40ddb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\cb7f3af1a8153c80c84b6a78436b4b5a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6aefd1119a12dc2606ea51603a089819\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\0ecfbd58ff51793b05776a7c0ca9fd44\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9a236588fac7fb95c09b1b0494e08ed3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\e7fdcc4709de8306ae0cf797dff0368f\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.1.aar\e3cbaf971b007db06f12cc7349a80ce4\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\ec4048e8801b422994d4d1d02441d197\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\ec4048e8801b422994d4d1d02441d197\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.0.aar\a7aff5711a94d9706e676a3c8e66e3cd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.0.aar\a7aff5711a94d9706e676a3c8e66e3cd\AndroidManifest.xml:7:5-20
+MERGED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:23:5-40:19
+MERGED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.0.aar\4fd876211977d46ce9e6565ddd017cb0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.0.aar\4fd876211977d46ce9e6565ddd017cb0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\3569e8d838fbd58cde5eab1fdf5a12ca\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\3569e8d838fbd58cde5eab1fdf5a12ca\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\cd858cdf95516e77e4fe06454c3bc317\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\cd858cdf95516e77e4fe06454c3bc317\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\f298fa0ccbb59149469b5a17b1c0db59\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\f298fa0ccbb59149469b5a17b1c0db59\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\c240fc530fe7a78eb1877e544a9803c6\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\c240fc530fe7a78eb1877e544a9803c6\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\0cd428fd991be79b93fb30df63c253e8\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\0cd428fd991be79b93fb30df63c253e8\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\8a6fe92d472bfb57666bb64d8c002e26\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\8a6fe92d472bfb57666bb64d8c002e26\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\180a030e72c5b0297def192e166bb00c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\180a030e72c5b0297def192e166bb00c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\795175e890219bcd4864d284863ff428\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\795175e890219bcd4864d284863ff428\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\62fc9531a25cee7ff06508882bbbe3f7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\62fc9531a25cee7ff06508882bbbe3f7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\97feefa99cc8eccec8105f2ab6cace72\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\97feefa99cc8eccec8105f2ab6cace72\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\8c54d20f4291135316e9ba4a1a6b128e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\8c54d20f4291135316e9ba4a1a6b128e\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a3d47f907ee27ed34df2747f90ff5e0b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a3d47f907ee27ed34df2747f90ff5e0b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7e8fcb7b2e5754e7776b71f86c36d31c\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7e8fcb7b2e5754e7776b71f86c36d31c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a3d47f907ee27ed34df2747f90ff5e0b\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:11:9-36
+	android:icon
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.gromnom.gromnombeta.MainActivity
+ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\a7280436cfe1e53b7ac283df4fe4d35a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\a7280436cfe1e53b7ac283df4fe4d35a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\2992711f5be1b1a790ad25339f967c76\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\2992711f5be1b1a790ad25339f967c76\AndroidManifest.xml:20:5-43
+MERGED from [:firebase_analytics] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_analytics\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_analytics\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\ec4048e8801b422994d4d1d02441d197\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\ec4048e8801b422994d4d1d02441d197\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.0.aar\a7aff5711a94d9706e676a3c8e66e3cd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.0.aar\a7aff5711a94d9706e676a3c8e66e3cd\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:21:5-44
+MERGED from [:location] D:\Hackabit2.0\Gromnom\gromnombeta\build\location\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:location] D:\Hackabit2.0\Gromnom\gromnombeta\build\location\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] D:\Hackabit2.0\Gromnom\gromnombeta\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] D:\Hackabit2.0\Gromnom\gromnombeta\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] D:\Hackabit2.0\Gromnom\gromnombeta\build\geocoder\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] D:\Hackabit2.0\Gromnom\gromnombeta\build\geocoder\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\75b3ebf03ef8aa749764dc31326ce3e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\75b3ebf03ef8aa749764dc31326ce3e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.0.aar\4fd876211977d46ce9e6565ddd017cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.0.aar\4fd876211977d46ce9e6565ddd017cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\3569e8d838fbd58cde5eab1fdf5a12ca\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\3569e8d838fbd58cde5eab1fdf5a12ca\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\cd858cdf95516e77e4fe06454c3bc317\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\cd858cdf95516e77e4fe06454c3bc317\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\903a93a01ddacc6a98f84ce11ea1a0d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\903a93a01ddacc6a98f84ce11ea1a0d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\f298fa0ccbb59149469b5a17b1c0db59\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\f298fa0ccbb59149469b5a17b1c0db59\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\c240fc530fe7a78eb1877e544a9803c6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\c240fc530fe7a78eb1877e544a9803c6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-16.0.0.aar\edc6002751d4405a21209899c799af17\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-16.0.0.aar\edc6002751d4405a21209899c799af17\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-16.0.0.aar\3667058179b81861730eed2be463d807\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-16.0.0.aar\3667058179b81861730eed2be463d807\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\da17bef7b5f0114b8cda18ebcc53cf84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\da17bef7b5f0114b8cda18ebcc53cf84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\0cd428fd991be79b93fb30df63c253e8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\0cd428fd991be79b93fb30df63c253e8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\8a6fe92d472bfb57666bb64d8c002e26\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\8a6fe92d472bfb57666bb64d8c002e26\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\180a030e72c5b0297def192e166bb00c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\180a030e72c5b0297def192e166bb00c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\795175e890219bcd4864d284863ff428\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\795175e890219bcd4864d284863ff428\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\62fc9531a25cee7ff06508882bbbe3f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\62fc9531a25cee7ff06508882bbbe3f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\97feefa99cc8eccec8105f2ab6cace72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\97feefa99cc8eccec8105f2ab6cace72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\8c54d20f4291135316e9ba4a1a6b128e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\8c54d20f4291135316e9ba4a1a6b128e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\aa130c35439725330a4b687125b34913\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\aa130c35439725330a4b687125b34913\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\499d2df2f7be456f01da689621862fdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\499d2df2f7be456f01da689621862fdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f665a717fbcb2f85b1d4a49f13bb590a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f665a717fbcb2f85b1d4a49f13bb590a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\dfaef2eee69d9427405867fd89b9a712\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\dfaef2eee69d9427405867fd89b9a712\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1e52cfaed379e68626fd35094e7efd78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1e52cfaed379e68626fd35094e7efd78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\574a2eef9c71d25fde7cbabb32c828ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\574a2eef9c71d25fde7cbabb32c828ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\689227ca6ea2f07cace81cb91e96d349\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\689227ca6ea2f07cace81cb91e96d349\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\cfca11c22c88024b51f19a310abf0558\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\cfca11c22c88024b51f19a310abf0558\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\d1cfb9907e7d099268157c96c19954da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\d1cfb9907e7d099268157c96c19954da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\d42bb8b7d7692a8a3cbdd461b26e6703\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\d42bb8b7d7692a8a3cbdd461b26e6703\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\4452d822e4db5c782af0a952ba170e59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\4452d822e4db5c782af0a952ba170e59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a3d47f907ee27ed34df2747f90ff5e0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a3d47f907ee27ed34df2747f90ff5e0b\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\grpc-android-1.16.1.aar\9f67c3df3cdc0fc5a1249bca8bdf641a\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\grpc-android-1.16.1.aar\9f67c3df3cdc0fc5a1249bca8bdf641a\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7e8fcb7b2e5754e7776b71f86c36d31c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7e8fcb7b2e5754e7776b71f86c36d31c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\475a0fd6570953ed39568c4852301a67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\475a0fd6570953ed39568c4852301a67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\599775808e536362f97a1f09368a3718\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\599775808e536362f97a1f09368a3718\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\4e0d4468e613eb261e417c6a96e13068\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\4e0d4468e613eb261e417c6a96e13068\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9b4ee01b5a24428f04150b94260459ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9b4ee01b5a24428f04150b94260459ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\1a740c0dde9ef72b27988d0d089c38cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\1a740c0dde9ef72b27988d0d089c38cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\6a98eb5a08d2103358d1c8be49b40ddb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\6a98eb5a08d2103358d1c8be49b40ddb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\cb7f3af1a8153c80c84b6a78436b4b5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\cb7f3af1a8153c80c84b6a78436b4b5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6aefd1119a12dc2606ea51603a089819\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6aefd1119a12dc2606ea51603a089819\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\0ecfbd58ff51793b05776a7c0ca9fd44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\0ecfbd58ff51793b05776a7c0ca9fd44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9a236588fac7fb95c09b1b0494e08ed3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9a236588fac7fb95c09b1b0494e08ed3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\e7fdcc4709de8306ae0cf797dff0368f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\e7fdcc4709de8306ae0cf797dff0368f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.1.aar\e3cbaf971b007db06f12cc7349a80ce4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.1.aar\e3cbaf971b007db06f12cc7349a80ce4\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [:firebase_analytics] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_analytics\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-67
+MERGED from [:firebase_analytics] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_analytics\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-67
+MERGED from [:google_sign_in] D:\Hackabit2.0\Gromnom\gromnombeta\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] D:\Hackabit2.0\Gromnom\gromnombeta\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\903a93a01ddacc6a98f84ce11ea1a0d5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\903a93a01ddacc6a98f84ce11ea1a0d5\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\Hackabit2.0\Gromnom\gromnombeta\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_analytics] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_analytics\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\903a93a01ddacc6a98f84ce11ea1a0d5\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\903a93a01ddacc6a98f84ce11ea1a0d5\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\grpc-android-1.16.1.aar\9f67c3df3cdc0fc5a1249bca8bdf641a\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\grpc-android-1.16.1.aar\9f67c3df3cdc0fc5a1249bca8bdf641a\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:firebase_analytics] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_analytics\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_analytics] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_analytics\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\903a93a01ddacc6a98f84ce11ea1a0d5\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\903a93a01ddacc6a98f84ce11ea1a0d5\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:firebase_analytics] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_analytics\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:33:9-39:19
+MERGED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:17:9-21:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:17-123
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] D:\Hackabit2.0\Gromnom\gromnombeta\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:17-122
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\30338b9a03acc0ddaf628fc42cee5c74\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] D:\Hackabit2.0\Gromnom\gromnombeta\build\location\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] D:\Hackabit2.0\Gromnom\gromnombeta\build\location\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] D:\Hackabit2.0\Gromnom\gromnombeta\build\location\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [:location] D:\Hackabit2.0\Gromnom\gromnombeta\build\location\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:22-76
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] D:\Hackabit2.0\Gromnom\gromnombeta\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:17-133
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.0.aar\5b57926f7bd587689b8a8c091c4bce06\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\3f1dbb8ef6a0cb8ea1b72eaf4f304220\AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\2ec1b8bd76825c8b3f6b7a9b31539e98\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6178cbf0b8ab2530954fa9352fa1823\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\59bdbc8a3d1909bd94c675fdb2e5fc1b\AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-19.0.0.aar\7ea938d21f6bb7aedfc1a6a56ea65b0d\AndroidManifest.xml:19:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\5e5f23ef985cf0fe9773dc6c3cfbb978\AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\8a6fe92d472bfb57666bb64d8c002e26\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\8a6fe92d472bfb57666bb64d8c002e26\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\8a6fe92d472bfb57666bb64d8c002e26\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\8a6fe92d472bfb57666bb64d8c002e26\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\8c54d20f4291135316e9ba4a1a6b128e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\8c54d20f4291135316e9ba4a1a6b128e\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vivek Nigam\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\8c54d20f4291135316e9ba4a1a6b128e\AndroidManifest.xml:24:13-58

@@ -1,0 +1,2 @@
+# Referenced at D:\Hackabit2.0\Gromnom\gromnombeta\build\app\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:28
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
